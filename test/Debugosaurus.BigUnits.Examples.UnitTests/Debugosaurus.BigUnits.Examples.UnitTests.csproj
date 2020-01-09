@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Debugosaurus.BigUnits.Examples\Debugosaurus.BigUnits.Examples.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+    <PackageReference Include="Shouldly" Version="4.0.0-beta0002" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+    <PackageReference Include="Debugosaurus.BigUnits" Version="0.0.0.2" />
+    <PackageReference Include="Debugosaurus.BigUnits.Moq" Version="0.0.0.2" />
+  </ItemGroup>
+
+</Project>
