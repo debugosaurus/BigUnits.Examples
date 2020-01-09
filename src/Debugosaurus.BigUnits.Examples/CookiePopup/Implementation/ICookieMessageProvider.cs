@@ -1,4 +1,4 @@
-namespace Debugosaurus.BigUnits.Examples.CookiePopup.Interfaces
+namespace Debugosaurus.BigUnits.Examples.CookiePopup.Implementation
 {
     public interface ICookieMessageProvider
     {

@@ -1,5 +1,5 @@
 using Debugosaurus.BigUnits.Examples.CookiePopup;
-using Debugosaurus.BigUnits.Examples.CookiePopup.Interfaces;
+using Debugosaurus.BigUnits.Examples.CookiePopup.Implementation;
 using Debugosaurus.BigUnits.Examples.Users;
 using Moq;
 using Shouldly;

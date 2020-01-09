@@ -1,6 +1,5 @@
 using System;
 using System.Text;
-using  Debugosaurus.BigUnits.Examples.CookiePopup.Interfaces;
 using Debugosaurus.BigUnits.Examples.FileSystem;
 
 namespace Debugosaurus.BigUnits.Examples.CookiePopup.Implementation

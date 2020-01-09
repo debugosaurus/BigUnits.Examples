@@ -1,6 +1,6 @@
-using  Debugosaurus.BigUnits.Examples.Users;
+using Debugosaurus.BigUnits.Examples.Users;
 
-namespace Debugosaurus.BigUnits.Examples.CookiePopup.Interfaces
+namespace Debugosaurus.BigUnits.Examples.CookiePopup.Implementation
 {
     public interface ICookieMessageFormatter
     {

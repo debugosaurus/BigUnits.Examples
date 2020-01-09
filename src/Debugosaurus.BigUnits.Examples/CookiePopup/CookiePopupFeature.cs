@@ -1,6 +1,5 @@
-using  Debugosaurus.BigUnits.Examples.CookiePopup.Implementation;
-using  Debugosaurus.BigUnits.Examples.CookiePopup.Interfaces;
-using  Debugosaurus.BigUnits.Examples.Users;
+using Debugosaurus.BigUnits.Examples.CookiePopup.Implementation;
+using Debugosaurus.BigUnits.Examples.Users;
 
 namespace Debugosaurus.BigUnits.Examples.CookiePopup
 {
